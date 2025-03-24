@@ -1,0 +1,16 @@
+<View>
+  <Image name="image" value="$image"/>
+
+  <Header value="RectangleLabels"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="Zebra-Crossing" background="rgba(218, 1, 238, 1)"/>
+    <Label value="bicycle" background="rgba(0, 255, 0, 1)"/>
+    <Label value="bus" background="rgba(1, 146, 243, 1)"/>
+    <Label value="car" background="rgba(241, 135, 0, 1)"/>
+    <Label value="cone" background="rgba(12, 0, 184, 1)"/>
+    <Label value="gravel-road" background="rgba(72, 124, 73, 1)"/>
+    <Label value="motorcycle" background="rgba(187, 1, 37, 1)"/>
+    <Label value="person" background="rgba(166, 250, 86, 1)"/>
+    <Label value="truck" background="rgba(178, 135, 216, 1)"/>
+  </RectangleLabels>
+</View>

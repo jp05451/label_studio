@@ -1,0 +1,1 @@
+^(?!.*\.(txt|yaml)$).*\.(jpg|jpeg|png)$
