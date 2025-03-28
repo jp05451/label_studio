@@ -1,10 +1,9 @@
 docker/mydata/
 docker/deploy/
 docker/postgres-data/
-!docker/docker-compose.yml
 datasets/
-!datasets/.gitkeep
 *.json
 *.xml
 !template.xml
 *.pt
+DownloadDatasets.py
