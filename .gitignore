@@ -1,6 +1,6 @@
-docker/mydata/
-docker/deploy/
-docker/postgres-data/
+docker/
+!docker/docker-compose.yml
+!docker/Dockerfile
 datasets/
 *.json
 *.xml
